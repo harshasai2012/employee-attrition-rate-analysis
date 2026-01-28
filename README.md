@@ -1,5 +1,14 @@
 # Visual Analytics on Employee Attrition and Performance
 
+
+## Dashboard
+
+<img width="1440" height="820" alt="image" src="https://github.com/user-attachments/assets/08202673-3136-4ff0-8985-8294378a4906" />
+
+
+YouTube: https://www.youtube.com/watch?v=7BsEyy_wg4Y
+
+
 ## Overview
 
 Employee attrition is a critical challenge for organizations across industries, directly impacting productivity, operational continuity, and profitability. High attrition leads to increased hiring and training costs, loss of experienced talent, and disruption to business workflows.
@@ -146,8 +155,4 @@ The dataset contains employee survey data from a reputed organization across mul
 - Build role-specific dashboards for HR and leadership teams.
 - Combine engagement, performance, and compensation data for deeper insights.
 
----
 
-## Author
-
-**Sai Harsha Bandarupally**
