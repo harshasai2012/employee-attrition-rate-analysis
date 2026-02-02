@@ -6,8 +6,6 @@
 <img width="1440" height="820" alt="image" src="https://github.com/user-attachments/assets/08202673-3136-4ff0-8985-8294378a4906" />
 
 
-YouTube: https://www.youtube.com/watch?v=7BsEyy_wg4Y
-
 
 ## Overview
 
